@@ -5,4 +5,4 @@ the Appendix rad_routines, rad_crmpsc, rad_creprc, and rad_qops are examples
 that demonstrate how to program with OpenVMS NUMA system service interfaces. 
 
 For more details please check this document on net "HP OpenVMS NUMA Programming
-Guide". Or please visit HPE OpenVMS site.
+Guide". 
